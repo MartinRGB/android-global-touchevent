@@ -1,0 +1,4 @@
+#Fri Nov 17 17:57:49 CST 2017
+base.0=/Users/MartinRGB/Desktop/Github/android-global-touchevent/app/build/intermediates/transforms/dexMerger/debug/8
+renamed.0=classes.dex
+file.0=/Users/MartinRGB/Desktop/Github/android-global-touchevent/app/build/intermediates/transforms/dexMerger/debug/8/classes.dex
